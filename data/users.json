@@ -1,3 +1,8 @@
 {
-  "users": []
+  "users": [
+    {
+      "gmail": "exemple@gmail.com",
+      "code": "1234"
+    }
+  ]
 }
